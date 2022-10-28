@@ -4,7 +4,7 @@
 #### A game with the proposal to make the player guess a number between 0 and 10.
 #### I used HTML, CSS and learned a little more about JavaScript as using objects to perform events and the link between HTML and JavaScript by the DOM (Document Object Model).
 
-### This project focuses on learning to:
+## This project focuses on learning to:
 + DOM manipulation
 + preventStandard
 + operators
