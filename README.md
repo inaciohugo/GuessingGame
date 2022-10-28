@@ -13,7 +13,7 @@
 
 <h1> Preview 👀 </h1>
 
-<a href="https://inaciohugo.github.io/GuessingGame/">Deploy</a>
+<a href="https://inaciohugo.github.io/TheGuessingGame/">Deploy</a>
 
 ![Captura de ecrã 2022-10-28 105757](https://user-images.githubusercontent.com/108989054/198560417-94e8139d-f7a5-4a99-8f18-b1b67416dc5e.png)
 
