@@ -16,6 +16,6 @@
 <a href="https://inaciohugo.github.io/TheGuessingGame/">Deploy</a>
 
 ![Captura de ecrã 2022-10-28 105757](https://user-images.githubusercontent.com/108989054/198560417-94e8139d-f7a5-4a99-8f18-b1b67416dc5e.png)
+![Captura de ecrã 2022-10-28 110329](https://user-images.githubusercontent.com/108989054/198561671-503bc9a7-936b-4ef1-9f56-30ad650e9481.png)
 
 
-![Imagem WhatsApp 2022-10-28 às 10 10 58](https://user-images.githubusercontent.com/108989054/198551357-8c2e8c99-80fb-4e76-8bd3-7fdc1b55d543.jpg)
